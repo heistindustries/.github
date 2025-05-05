@@ -1,12 +1,12 @@
 <div align=center>
   <a href="https://github.com/HeistIndustries">
-    <img src="https://komarev.com/ghpvc/?username=heistindustries&style=for-the-badge" alt="shield.png">
+    <img src="https://komarev.com/ghpvc/?username=heistindustries&style=for-the-badge">
   </a>
 
 <br />
 <br />
 
-<center>:warning:<strong>Majority of our work is licensed if public, if you would like to use it commercially please contact an administrator</strong></center>
+<center>:warning:<strong>Majority of our work is licensed if public, if you would like to use it commercially please contact an administrator.</strong></center>
 
 ## ✨ Heist Industries
 
