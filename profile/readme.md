@@ -22,6 +22,16 @@
       <br />
       <a href="https://github.com/csynholic" title="Owner">👑</a>
     </td>
+    </td>
+        <td align="center">
+      <a href="https://lane.rest">
+        <img src="https://raw.githubusercontent.com/heistindustries/.github/main/media/lane.png" width="100px;" alt="Lane">
+        <br />
+        <sub><b>Lane</b></sub>
+        </img>
+      </a>
+      <br />
+      <a href="https://github.com/uqx9" title="Owner">👑</a>
   </tr>
 </table>
 
