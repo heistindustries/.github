@@ -6,9 +6,9 @@
 <br />
 <br />
 
-<center>:warning:<strong>Majority of our work is licensed if public, if you would like to use it commercially please contact an administrator.</strong></center>
+<center>:warning:<strong>Majority of <s>our</s> my work is licensed if public, if you would like to use it commercially please contact an administrator.</strong></center>
 
-## ✨ Heist Industries
+## 💻 Heist Industries
 
 <table>
   <tr>
@@ -20,7 +20,7 @@
         </img>
       </a>
       <br />
-      <a href="https://github.com/csynholic" title="Owner">👑</a>
+      <a href="https://github.com/csynholic" title="Owner">⌨️</a>
     </td>
 </table>
 
