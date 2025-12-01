@@ -6,7 +6,7 @@
 <br />
 <br />
 
-<center>:warning:<strong>Majority of <s>our</s> my work is licensed if public, if you would like to use it commercially please contact an administrator.</strong></center>
+<center>:warning:<strong>Majority of <s>our</s> my work is licensed if public, if you would like to use it commercially please contact <s>an administrator</s> me directly.</strong></center>
 
 ## 💻 Heist Industries
 
