@@ -8,7 +8,7 @@
 
 <center>:warning:<strong>Majority of <s>our</s> my work is licensed if public, if you would like to use it commercially please contact <s>an administrator</s> me directly.</strong></center>
 
-## <img src="https://git.cursi.ng/heist.png" width="24" style="vertical-align:middle;"> Heist Industries
+## <img src="https://git.cursi.ng/heist.png" width="24" style="vertical-align:middle; position: relative; top: 2px;"> Heist Industries
 
 <table>
   <tr>
