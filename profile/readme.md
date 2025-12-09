@@ -24,8 +24,8 @@
   <br />
   <br /><br />
 
-  <img src="https://img.shields.io/badge/Authed_Users-371,000-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Authed_Servers-49-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Authed%20Users&query=$.discord_user_install_count&url=https://api.cursi.ng/getcount&style=for-the-badge">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Authed%20Servers&query=$.discord_guild_count&url=https://api.cursi.ng/getcount&style=for-the-badge">
 
   <br /><br />
 
