@@ -20,7 +20,7 @@
   </h2>
 
   <img 
-    src="https://git.cursi.ng/heist.png" 
+    src="https://git.cursi.ng/heist_waifu_nobg.png" 
     width="260"
     alt="Heist Waifu"
   />
