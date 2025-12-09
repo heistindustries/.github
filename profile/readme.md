@@ -1,9 +1,5 @@
 <div align="center">
 
-  <a href="https://github.com/HeistIndustries">
-    <img src="https://komarev.com/ghpvc/?username=heistindustries&style=for-the-badge">
-  </a>
-
   <br /><br />
 
   <center>
