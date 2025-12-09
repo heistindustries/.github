@@ -3,7 +3,7 @@
   <br /><br />
 
   <center>
-    ⚠️ <strong>Most of my public work is licensed. For commercial use, contact me directly.</strong>
+    ⚠️ <strong>Most of my public work is licensed. For commercial use, contact me directly.</strong> ⚠️
   </center>
 
   <br />
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?label=Authed%20Users&query=$.discord_user_install_count&url=https://api.cursi.ng/getcount&style=for-the-badge">
   <img src="https://img.shields.io/badge/dynamic/json?label=Authed%20Servers&query=$.discord_guild_count&url=https://api.cursi.ng/getcount&style=for-the-badge">
 
-  <br /><br />
+  <br />
 
   <img src="https://komarev.com/ghpvc/?username=heistindustries&style=for-the-badge">
 
