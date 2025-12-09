@@ -20,14 +20,12 @@
   </h2>
 
   <img 
-    src="https://raw.githubusercontent.com/heistindustries/.github/main/media/waifu.png" 
+    src="https://git.cursi.ng/heist.png" 
     width="260"
     alt="Heist Waifu"
   />
 
   <br />
-  <sub><i>Heist Waifu</i></sub>
-
   <br /><br />
 
   <img src="https://img.shields.io/badge/Authed_Users-371,000-blue?style=for-the-badge">
