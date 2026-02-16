@@ -53,7 +53,7 @@
           <sub><b>fvndzs</b></sub>
         </a>
         <br />
-        <span>💻 Web Dev</span>
+        <a href="https://discord.com/users/1401607872017858775">💻 Web Dev</a>
       </td>
     </tr>
   </table>
