@@ -46,15 +46,6 @@
         <br />
         <a href="https://github.com/csynholic">⌨️ Owner</a>
       </td>
-      <td align="center">
-        <a href="https://github.com/fvndzs">
-          <img src="https://raw.githubusercontent.com/heistindustries/.github/main/media/fvndzs.png" width="100px;" alt="fvndzs">
-          <br />
-          <sub><b>fvndzs</b></sub>
-        </a>
-        <br />
-        <a href="https://discord.com/users/1401607872017858775">💻 Web Dev</a>
-      </td>
     </tr>
   </table>
 
