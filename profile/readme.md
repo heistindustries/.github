@@ -11,14 +11,14 @@
   <hr width="60%"/>
 
   <h2>
-    <img src="https://git.cursi.ng/heist.png" width="24" style="vertical-align: text-bottom;">
+    <img src="https://git.cursi.ng/heist.png?" width="24" style="vertical-align: text-bottom;">
     Heist Industries
   </h2>
 
   <img 
-    src="https://git.cursi.ng/heist_waifu_nobg.png" 
+    src="https://git.cursi.ng/heist_banner_v3" 
     width="260"
-    alt="Heist Waifu"
+    alt="Heist Banner"
   />
 
   <br />
