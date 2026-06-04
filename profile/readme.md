@@ -16,7 +16,7 @@
   </h2>
 
   <img 
-    src="https://git.cursi.ng/heist_banner_v3" 
+    src="https://git.cursi.ng/heist_banner_v3.png" 
     width="260"
     alt="Heist Banner"
   />
